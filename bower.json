@@ -1,6 +1,5 @@
 {
   "name": "tsg-jquery-modal",
-  "version": "0.5.5",
   "main": [
     "jquery.modal.js",
     "jquery.modal.css",
@@ -10,7 +9,8 @@
   "homepage": "https://github.com/the-support-group/jquery-modal",
   "authors": [
     "Junior Pennicott",
-    "Craig Smith"
+    "Craig Smith",
+    "Steve Heath"
   ],
   "description": "A lightweight and easy to use modal plugin for jQuery.",
   "keywords": [
